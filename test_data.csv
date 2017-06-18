@@ -1,4 +1,4 @@
-,amount_tsh,days_since_recorded,funder,installer,basin,population,public_meeting,scheme_management,permit,construction_year,extraction_type_class,payment_type,water_quality,quantity,source_type,source_class,waterpoint_type,waterpoint_type_group
+,amount_tsh,days_since_recorded,funder,installer,basin,population,public_meeting,scheme_management,permit,construction_year,extraction_type_class,payment_type,water_quality,quantity_group,source_type,source_class,waterpoint_type,waterpoint_type_group
 0,0.0,302,other,other,Internal,321,True,other,True,10s,other,never pay,soft,seasonal,rainwater harvesting,surface,other,other
 1,0.0,302,gov,dwe,Pangani,300,True,vwc,True,00s,gravity,never pay,soft,insufficient,spring,groundwater,communal standpipe,communal standpipe
 2,0.0,305,other,other,Internal,500,True,vwc,Unknown,10s,other,never pay,soft,insufficient,rainwater harvesting,surface,other,other
