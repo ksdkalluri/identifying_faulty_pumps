@@ -30,7 +30,7 @@ __Test set values__ - The independent variables that need predictions.
  [Predicting The Functional Status of Tanzanian Water Pumps.pdf](https://github.com/ksdkalluri/identifying_faulty_pumps/blob/master/Predicting%20The%20Functional%20Status%20of%20Tanzanian%20Water%20Pumps.pdf) - Contains the detailed report regarding 
  the analysis and prediction
  
-
+# A Blog Post about this project has been posted in Medium - [Predicting The Functional Status of Pumps in Tanzania](https://medium.com/towards-data-science/predicting-the-functional-status-of-pumps-in-tanzania-355c9269d0c2)
 
 
 
